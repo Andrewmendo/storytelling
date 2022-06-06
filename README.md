@@ -79,6 +79,7 @@ Sobrevivir al desierto, fenómenos desconocido.
 - ProtoPie: https://cloud.protopie.io/p/868c2c237d 
 - Arcweave: https://arcweave.com/app#/project/dQlAXzm0ng
 - eXtended Reality: https://drive.google.com/drive/my-drive
+- QR: https://drive.google.com/file/d/1aaF6sSgNKB0VA0Ppe6DRnTehrwKWyRIe/view?usp=sharing
 ------
 
 
