@@ -13,7 +13,7 @@ Proyecto (código): g8
 Es la historia de Lia una chica que su objetivo es llegar al mar blanco del cual hablaba su madre y su abuela y en el camino se va encontrando a Zak un chico que lo unico que busca es aventura y Noa un niño que quiere ayudar a la gente a darse cuenta que todo se esta acabando y que muchas de las cosas que dicen las personas son falsas.
 
 ### Personaje
-
+https://drive.google.com/file/d/1XqVabAytKKNV0P1Zldr1k4YifRpfbz8l/view?usp=sharing
 
 Nombre: 
 Lia : Chica 19 años, natal de Lunde.
