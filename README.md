@@ -75,7 +75,7 @@ Sobrevivir al desierto, fenómenos desconocido.
 
 - Banner/Teaser: https://drive.google.com/file/d/1fOT_W8WSNi0shDncYhKUPvIi8Lr_mhGQ/view?usp=sharing
 
-- Storytelling: (enlace) 
+- Storytelling: https://drive.google.com/drive/folders/1zrz-UeAgU3K9uByPqNC58baIuaJ3fnMF?usp=sharing
 - ProtoPie: https://cloud.protopie.io/p/868c2c237d 
 - Arcweave: https://arcweave.com/app#/project/dQlAXzm0ng
 - eXtended Reality: https://drive.google.com/drive/my-drive
