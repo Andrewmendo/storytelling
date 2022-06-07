@@ -80,6 +80,7 @@ Sobrevivir al desierto, fenómenos desconocido.
 - Arcweave: https://arcweave.com/app#/project/dQlAXzm0ng
 - eXtended Reality: https://drive.google.com/drive/my-drive
 - QR: https://drive.google.com/file/d/1aaF6sSgNKB0VA0Ppe6DRnTehrwKWyRIe/view?usp=sharing
+- Readme: https://docs.google.com/document/d/1KbtY7AB02tuwhOOVJX6tOkOkfheuFlhLbHvONAcuPQc/edit
 ------
 
 
